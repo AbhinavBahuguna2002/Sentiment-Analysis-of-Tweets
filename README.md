@@ -25,3 +25,36 @@ Remember to get the username or screen name for the airline whose tweets you wan
 - nltk (natural language toolkit) 
 - matplotlib 
 
+
+# Resources 
+
+\#Bag of words 
+- https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
+- https://en.wikipedia.org/wiki/Bag-of-words_model
+- https://www.youtube.com/watch?v=IKgBLTeQQL8&ab_channel=KrishNaik
+
+\#Stopwords 
+- https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
+
+\#TF-IDF (Term Frequency-Inverse Document Frequency)
+- https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/
+- https://www.youtube.com/watch?v=D2V1okCEsiE&ab_channel=KrishNaik
+
+\#Test-Train split (sklearn.model_selection.train_test_split) 
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html 
+ 
+![0 DKB-pJy7-G6gEkM-](https://user-images.githubusercontent.com/91340952/184548646-103a9caa-4f16-42b2-8dfe-5678dccaf559.png)
+
+[*image source*](https://towardsdatascience.com/understanding-train-test-split-scikit-learn-python-ea676d5e3d1)
+
+\#Logistic Regression (sklearn.linear_model.LogisticRegression)
+- https://www.geeksforgeeks.org/understanding-logistic-regression/
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- https://www.javatpoint.com/logistic-regression-in-machine-learning
+
+\#Random Forest 
+*short video on ensemble learning* https://youtu.be/LNrBcDfUhq0
+- https://www.ibm.com/cloud/learn/random-forest
+- https://youtu.be/WkFtIqWmX9o 
+-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
