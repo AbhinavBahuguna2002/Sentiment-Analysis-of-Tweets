@@ -55,7 +55,7 @@ Remember to get the username or screen name for the airline whose tweets you wan
 
 
 \#Random Forest
-- *short video on ensemble learning* https://youtu.be/LNrBcDfUhq0
+- *short video on ensemble learning:* https://youtu.be/LNrBcDfUhq0
 - https://www.ibm.com/cloud/learn/random-forest
 - https://youtu.be/WkFtIqWmX9o 
 -https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
