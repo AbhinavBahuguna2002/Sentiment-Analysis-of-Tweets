@@ -54,7 +54,8 @@ Remember to get the username or screen name for the airline whose tweets you wan
 - https://www.javatpoint.com/logistic-regression-in-machine-learning
 
 
-\#Random Forest \n
+\#Random Forest
+
 *short video on ensemble learning* https://youtu.be/LNrBcDfUhq0
 - https://www.ibm.com/cloud/learn/random-forest
 - https://youtu.be/WkFtIqWmX9o 
