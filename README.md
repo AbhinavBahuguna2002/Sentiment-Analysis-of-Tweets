@@ -60,3 +60,7 @@ Remember to get the username or screen name for the airline whose tweets you wan
 - https://youtu.be/WkFtIqWmX9o 
 -https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
+
+\#Extraction of tweets
+- https://www.geeksforgeeks.org/extraction-of-tweets-using-tweepy/
+- There are two types of authentication-- the first one is authentication which uses the consumer key and consumer secret to identify this client and be sure that it is a valid account. The second one is called authorization which allows the resources server to identify which type of actions you have the permission to do with data, or what we call a resource, and this operation uses access token and access token secret.
