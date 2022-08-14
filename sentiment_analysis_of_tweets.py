@@ -145,10 +145,10 @@ Air Asia- AirAsiaIndia
 """
 
 #Twitter API Credentials 
-apiKey = "nCqo2nj8jd7RIXseYfPpgaMj3"
-apiSecret = "pT0EXphFOJvvXd4OtZ0Ya1E5TmmNBWtnxOrUVYSgjVgKoRsWvj"
-accessToken = "735781839919419392-QmGo972kJQiHgGJBSbwF1Uc5UmNu8Nv"
-accessTokenSecret = "Xu9NnMcG1MoHvlAp2DquGBqSAxQrKVQls6YMTNKdhoa8o"
+apiKey = ""
+apiSecret = ""
+accessToken = ""
+accessTokenSecret = ""
 
 #creating the authentication object 
 authenticate = tweepy.OAuthHandler (apiKey, apiSecret)
