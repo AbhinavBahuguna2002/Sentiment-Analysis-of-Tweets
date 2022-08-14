@@ -53,8 +53,8 @@ Remember to get the username or screen name for the airline whose tweets you wan
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 - https://www.javatpoint.com/logistic-regression-in-machine-learning
 
-\#Random Forest 
 
+\#Random Forest \n
 *short video on ensemble learning* https://youtu.be/LNrBcDfUhq0
 - https://www.ibm.com/cloud/learn/random-forest
 - https://youtu.be/WkFtIqWmX9o 
