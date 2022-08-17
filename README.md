@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets to understand major issues of a product or company 
+# Sentiment Analysis of Tweets to understand major issues of a product/company 
 
 Dataset: Twitter US Airline Sentiment
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
