@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets to understand major issues of a product/company 
+#Sentiment Analysis of Tweets to understand major issues of a product/company 
 
 Dataset: Twitter US Airline Sentiment
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
@@ -8,13 +8,13 @@ In this particular project, we perform sentiment analysis on the Twitter US Airl
 
 
 #
-# Getting Started
+#Getting Started
 
 First of all login from your [Twitter Developer Account](https://developer.twitter.com/en) and create a new project/app from your dashboard ([how to create Twitter App](https://medium.com/@divyeshardeshana/create-twitter-developer-account-app-4ac55e945bf4)). Now get keys and tokens w/ *elevated access* and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret in the code. 
 
 Remember to get the username or screen name for the airline whose tweets you want to access. 
 
-# Build With 
+#Built With 
 
 - Python 3.6 
 - tweepy 
@@ -26,7 +26,7 @@ Remember to get the username or screen name for the airline whose tweets you wan
 - matplotlib 
 
 
-# Resources 
+#Resources 
 
 \#Bag-of-words 
 - https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
