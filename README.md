@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets
+<h1 align="center">Sentiment Analysis of Tweets</h1> 
 
 This project involves using machine learning techniques such as Logistic Regression and Random Forest to perform sentiment analysis on the Twitter US Airline dataset. Sentiment analysis, also known as opinion mining, is a natural language processing technique used to classify data as positive, negative, or neutral. By analyzing customer sentiments on Twitter, companies can gain valuable insights into their customers' opinions and satisfaction levels, allowing them to make informed decisions about improving their services and products.
 
